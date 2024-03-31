@@ -1,6 +1,6 @@
 ### Hey there, my name is Agustin, currently studying at UTEC university.</p>
 
-#### Some techonologies i use:
+#### Techonologies:
 
 - C 
 - C++
