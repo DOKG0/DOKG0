@@ -1,16 +1,23 @@
-### Hi there 👋
+### Hey there my name is Agustin currently studying at UTEC university trying to be a developer.</p>
 
-<!--
-**DOKG0/DOKG0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Some techonologies i use:
 
-Here are some ideas to get you started:
+- C 
+- C++
+- Python
+- Mysql
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Projects i have worked on:
+
+---
+<span style="font-size:0.1em;">[CRUD using Python](https://github.com/DOKG0/CRUD-Python)</span></p>
+<span style="font-size:0.5em;">[CRUD using C++](https://github.com/DOKG0/CRUD)</span></p>
+<span style="font-size:0.5em;">[Calculator using C++](https://github.com/DOKG0/Calculadora)</span></p>
+<span style="font-size:0.5em;">[Implementation of N order semaphores (Productor-Consumidor) en Python](https://github.com/DOKG0/Productor-Consumidor)</span></p>
+<span style="font-size:0.5em;">[Implementation of functionalities for a hostel using C++](https://github.com/DOKG0/Hostal)</span></p>
+<span style="font-size:0.5em;">[Implementation of functionalities for a hostel using C++ with Icollections ](https://github.com/DOKG0/LabPA)</span></p>
+<span style="font-size:0.5em;">[Circular dependencies using C++ ](https://github.com/DOKG0/Ejercicio)</span></p>
+<span style="font-size:0.5em;">[Parallelization using Python ](https://github.com/DOKG0/Paralelizacion)</span></p>
+
+---
+
