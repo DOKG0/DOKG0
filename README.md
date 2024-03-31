@@ -1,4 +1,4 @@
-### Hey there my name is Agustin currently studying at UTEC university trying to be a developer.</p>
+### Hey there, my name is Agustin, currently studying at UTEC university trying to be a developer.</p>
 
 #### Some techonologies i use:
 
