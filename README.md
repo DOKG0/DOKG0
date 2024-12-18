@@ -1,3 +1,3 @@
-### Hey there, my name is Agustin, currently studying at UTEC university.</p>
+### Mi nombre es Agustín y actualmente me encuentro estudiando en la Universidad Tecnologica del Uruguay - [UTEC](https://utec.edu.uy/es/).</p>
 
 
